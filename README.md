@@ -19,8 +19,7 @@ A modern and stylish **Analog Clock** built with **HTML, CSS, and JavaScript**. 
 
 1. **Clone the repository**
 
-```bash
-git clone https://github.com/your-username/analog-clock.git
+git clone https://github.com/sumonprodhan-dev/analog-clock
 
 
 ### Thank you [Sumon Prodhan](https://sumonprodev.wixsite.com/sumonprodhan)
